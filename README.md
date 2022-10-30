@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jxxllay
 - 👀 I’m interested in JavaScript, React, HTML/CSS
-- 🌱 I’m currently learning UX/Ui design 
+- 🌱 I’m currently learning UX/UI Design 
 - 📫 How to reach me isakova.aizhan1208@gmail.com
 
 <!---
