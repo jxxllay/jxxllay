@@ -9,7 +9,7 @@
 
 
 <h3>Leetcode</h3>
-![Aizhan's LeetCode stats](https://leetcard.jacoblin.cool/jxxllay?theme=dark)
+[![Aizhan's LeetCode stats](https://leetcard.jacoblin.cool/jxxllay?theme=dark)]
 
 
 
