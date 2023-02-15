@@ -5,6 +5,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxllay)](https://github.com/jxxllay/github-readme-stats)
 
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+[![Aizhan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=jxxllay&theme=dark)](https://github.com/jxxllay/leetcode-stats)
+
 
 
 
