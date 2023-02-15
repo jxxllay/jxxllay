@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Aizhan<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-- 🌱 I’m currently learning UX/UI Design 
+- 🌱 I’m currently learning UX/UI Design </br>
 - 📫 How to reach me isakova.aizhan1208@gmail.com
 
 
