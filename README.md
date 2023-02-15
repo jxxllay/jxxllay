@@ -4,11 +4,11 @@
 - 🌱 I’m currently learning UX/UI Design </br>
 - 📫 How to reach me isakova.aizhan1208@gmail.co
 
-<h2>Github</h2>
+<h3>Github</h3>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxllay)](https://github.com/jxxllay/github-readme-stats)
 
 
-<h2>Leetcode</h2>
+<h3>Leetcode</h3>
 ![Aizhan's LeetCode stats](https://leetcard.jacoblin.cool/jxxllay?theme=dark)
 
 
