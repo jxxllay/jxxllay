@@ -8,8 +8,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxllay&theme=dark&font=Ubuntu)](https://github.com/jxxllay/github-readme-stats)
 
 
-# LeetCode [my leetCode](https://leetcode.com/jxxllay)
-![Aizhan's leetCode Stats](https://leetcard.jacoblin.cool/jxxllay?theme=dark&font=Ubuntu)
+# [LeetCode](https://leetcode.com/jxxllay)
+![Aizhan's LeetCode Stats](https://leetcard.jacoblin.cool/jxxllay?theme=dark&font=Ubuntu)
 
 
 
