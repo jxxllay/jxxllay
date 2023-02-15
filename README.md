@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning UX/UI Design </br>
 - 📫 How to reach me isakova.aizhan1208@gmail.com
 
-# Github
+# [Github](https://github.com/jxxllay)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxllay&theme=dark&font=Ubuntu)](https://github.com/jxxllay/github-readme-stats)
 
 
