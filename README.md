@@ -3,7 +3,8 @@
 - 📫 How to reach me isakova.aizhan1208@gmail.com
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxllay&layout=compact)](https://github.com/jxxllay/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxllay)](https://github.com/jxxllay/github-readme-stats)
+
 
 
 
