@@ -5,7 +5,7 @@
 - 📫 How to reach me isakova.aizhan1208@gmail.com
 
 # Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxllay)](https://github.com/jxxllay/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxllay&theme=dark)](https://github.com/jxxllay/github-readme-stats)
 
 
 # LeetCode
