@@ -9,7 +9,7 @@
 
 
 # LeetCode
-![Aizhan's leetCode Stats](https://leetcard.jacoblin.cool/jxxllay?theme=dark)
+![Aizhan's leetCode Stats](https://leetcard.jacoblin.cool/jxxllay?theme=dark&font=Ubuntu)
 
 
 
